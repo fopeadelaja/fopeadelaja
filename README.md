@@ -15,11 +15,11 @@ My experience spans **frontend and backend development, API design, database arc
 
 ### Tech
 
-**Languages:** TypeScript, JavaScript, SQL
+**Languages:** TypeScript, JavaScript, Python, SQL
 **Frontend:** React, Next.js
 **Backend:** Node.js, Express.js
 **Database:** PostgreSQL, Prisma
-**Tools:** Git, GitHub, Docker
+**Tools:** Git, GitHub
 
 ### Currently building
 
